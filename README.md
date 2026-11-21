@@ -26,7 +26,7 @@ A predictive digital twin for rivers, levees and slopes: **where and when** some
 <td width="50%">
 
 ### 🧠 AIND · Health datalake
-A datalake for the prevention of neurodegenerative diseases: it collects, cleans and catalogues clinical data, as the basis for AI risk models.
+Predicting **Alzheimer's disease up to 20 years in advance**, together with the trajectory of its biomarkers, on an **ISO 27001-certified** data infrastructure.
 
 `Python` `MongoDB` `MinIO` `Slurm` · 🔒 private
 
