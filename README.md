@@ -16,7 +16,7 @@
 <td width="50%">
 
 ### 🌊 GeoStream
-A predictive digital twin for rivers, levees and slopes: **where and when** something may fail, with the uncertainty always in view. Open data, low-power field sensors and an interactive twin.
+A predictive digital twin for rivers, levees and slopes.
 
 `Python` `HPC` `three.js` `LoRaWAN` · 🔒 ongoing
 
@@ -26,7 +26,7 @@ A predictive digital twin for rivers, levees and slopes: **where and when** some
 <td width="50%">
 
 ### 🧠 AIND · Health datalake
-Predicting **Alzheimer's disease up to 20 years in advance**, together with the trajectory of its biomarkers, on an **ISO 27001-certified** data infrastructure.
+Early prediction of Alzheimer's disease on a secure health data platform.
 
 `Python` `MongoDB` `MinIO` `Slurm` · 🔒 private
 
@@ -38,7 +38,7 @@ Predicting **Alzheimer's disease up to 20 years in advance**, together with the 
 <td width="50%">
 
 ### 🫧 ADAPT-AI · Synthetic biodigester
-Foam detection in a biogas digester: real camera and depth sensors, plus a synthetic twin rendered in Blender to train a CNN.
+Foam detection in a biogas digester, with a synthetic twin for training.
 
 `Blender` `Python` `PyTorch` `HPC` · 🔒 private
 
@@ -48,9 +48,9 @@ Foam detection in a biogas digester: real camera and depth sensors, plus a synth
 <td width="50%">
 
 ### 📈 AG-CWT
-Acoustic-emission onset picking as edge detection on the wavelet scalogram, with probabilistic source localisation.
+Acoustic-emission analysis and source localisation.
 
-`Python` `Gaussian processes` `CWT` · 🔒 paper in preparation
+`Python` · 🔒 paper in preparation
 
 </td>
 <td width="50%"><img src="assets/agcwt.gif" alt="AG-CWT" width="100%"></td>
@@ -60,7 +60,7 @@ Acoustic-emission onset picking as edge detection on the wavelet scalogram, with
 <td width="50%">
 
 ### 🔮 Revelio
-A personal, local research radar: news, repos, datasets, calls and CfPs, read and ranked by a local LLM against your own projects.
+A personal, local research radar.
 
 `FastAPI` `Ollama` `SQLite` · 🔒 private
 
@@ -70,7 +70,7 @@ A personal, local research radar: news, repos, datasets, calls and CfPs, read an
 <td width="50%">
 
 ### 🧭 Passaporta
-A shared Gantt, wiki and vault for a team, local-first and federated: everyone works on their own copy, a small hub keeps them in sync.
+A shared Gantt, wiki and vault for a team.
 
 `Python` `JavaScript` `TLS` · 🔒 private
 
@@ -82,7 +82,7 @@ A shared Gantt, wiki and vault for a team, local-first and federated: everyone w
 <td width="50%">
 
 ### 🦠 Pylo
-A shift planner for a hospital ward, with automatic checks, statistics and an AI assistant that handles swaps in plain language.
+A shift planner for a hospital ward.
 
 `Python` `JavaScript` `Ollama` `Claude` · 🔒 private
 
@@ -92,9 +92,9 @@ A shift planner for a hospital ward, with automatic checks, statistics and an AI
 <td width="50%">
 
 ### 🏦 Gringott
-An offline, encrypted personal-finance app explained in plain language, with Edvige, an owl assistant running locally.
+An offline personal-finance app with a local assistant.
 
-`Python` `JavaScript` `Ollama` · ✅ [public repo](https://github.com/bbaldini/gringott)
+`Python` `JavaScript` `Ollama` · 🔒 private
 
 </td>
 <td width="50%"><img src="assets/gringott.gif" alt="Gringott app tour" width="100%"></td>
@@ -102,7 +102,9 @@ An offline, encrypted personal-finance app explained in plain language, with Edv
 </table>
 
 ### 🧰 Also
-- **lamb-wave-surrogate**: surrogate model for guided-wave defect localisation · 🔒
+- **lamb-wave-surrogate**: guided-wave surrogate model · 🔒
 - **[ding-claude](https://github.com/bbaldini/ding-claude)**: it tells you when Claude has finished its task · ✅
 
 <sub>Names and data shown in the demo animations are invented.</sub>
+
+<sub>© 2026 Benedetta Baldini. All rights reserved. Text, images and animations may not be reused without permission.</sub>
